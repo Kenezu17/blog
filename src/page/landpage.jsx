@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Landpage() {
+function Home() {
   return (
     <div>landpage</div>
   )
 }
 
-export default Landpage
+export default Home
